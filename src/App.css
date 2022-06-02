@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+
+.content-area {
+  min-height: 280px;
+  background-color: #dbf3fa;
+}
+
+.video {
+  justify-content: center;
+}
+
+.divider {
+  color: black !important;
+}
+
+.extra-content {
+  min-height: 125px;
+}
+
+.bio {
+  text-align: center;
+}
+
+.welcome {
+  color: black;
+}
+
+.staticLink {
+  color: black !important;
+  text-decoration: underline !important;
+}
+
+.textColorWhite {
+  color: black !important;
+}
+
+.image-container {
+  margin-left: 25%;
+}
+
+.corpPics {
+  margin: 5% 10% 5% 10%;
+  width: 80%;
+  align-items: center;
+}
+
+.Header {
+  font-size: 36pt;
+  /* background-color: transparent !important; */
+}
+
+.background {
+  height: 100%;
+  background-color: #dbf3fa;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.shadow {
+  box-shadow: 10px 10px 10px black;
+}
+
+.doubleShadow {
+  box-shadow: 10px 10px 10px black;
+}
+
+.video-area {
+  height: 250px;
+  width: 250px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  border-radius: 10px;
+}
+
+.welcome:hover {
+  color: grey;
+}
+.welcome {
+  color: #dbf3fa;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .welcome {
+    animation: welcome-fade infinite 3s alternate;
+  }
+}
+
+@keyframes welcome-fade {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.25;
+  }
+}
