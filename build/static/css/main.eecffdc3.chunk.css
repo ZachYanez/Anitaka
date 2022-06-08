@@ -1,2 +1,97 @@
-body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}code{font-family:source-code-pro,Menlo,Monaco,Consolas,"Courier New",monospace}.content-area{min-height:280px;background-color:#dbf3fa}.video{justify-content:center}.divider{color:#000!important}.extra-content{min-height:125px}.bio{text-align:center}.welcome{color:#000}.staticLink{text-decoration:underline!important}.staticLink,.textColorWhite{color:#000!important}.image-container{margin-left:25%}.corpPics{margin:5% 10%;width:80%;align-items:center}.Header{font-size:36pt}.background{height:100%;background-color:#dbf3fa}.App{text-align:center}.App-header{background-color:#000;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:calc(10px + 2vmin);color:#fff}.doubleShadow,.shadow{box-shadow:10px 10px 10px #000}.video-area{height:250px;width:250px}.App-logo{height:40vmin;pointer-events:none;border-radius:10px}.welcome:hover{color:grey}.welcome{color:#dbf3fa}@media (prefers-reduced-motion:no-preference){.welcome{animation:welcome-fade 3s infinite alternate}}@keyframes welcome-fade{0%{opacity:1}to{opacity:.25}}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+.content-area {
+  min-height: 280px;
+  background-color: #fce4cc;
+}
+.video {
+  justify-content: center;
+}
+.divider {
+  color: #000 !important;
+}
+.extra-content {
+  min-height: 125px;
+}
+.bio {
+  text-align: center;
+}
+.welcome {
+  color: #000;
+}
+.staticLink {
+  text-decoration: underline !important;
+}
+.staticLink,
+.textColorWhite {
+  color: #000 !important;
+}
+.image-container {
+  margin-left: 25%;
+}
+.corpPics {
+  margin: 5% 10%;
+  width: 80%;
+  align-items: center;
+}
+.Header {
+  font-size: 36pt;
+}
+.background {
+  height: 100%;
+  background-color: #fce4cc;
+}
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #fff;
+}
+.doubleShadow,
+.shadow {
+  box-shadow: 10px 10px 10px #000;
+}
+.video-area {
+  height: 250px;
+  width: 250px;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  border-radius: 10px;
+}
+.welcome:hover {
+  color: grey;
+}
+.welcome {
+  color: #fce4cc;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .welcome {
+    animation: welcome-fade 3s infinite alternate;
+  }
+}
+@keyframes welcome-fade {
+  0% {
+    opacity: 1;
+  }
+  to {
+    opacity: 0.25;
+  }
+}
 /*# sourceMappingURL=main.eecffdc3.chunk.css.map */

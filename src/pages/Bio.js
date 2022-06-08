@@ -6,7 +6,7 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 // import Know1 from "../assets/know/Amazon.PNG";
 // import Know2 from "../assets/know/Dynamax.PNG";
 // import Know3 from "../assets/know/Fogo.PNG";
-import Know5 from "../assets/headshots/headshot5.jpg";
+import Headshot6 from "../assets/headshots/headshot6.jpg";
 
 export default function Bio() {
   return (
@@ -63,15 +63,22 @@ export default function Bio() {
       <div className="content-area background">
         <br />
         <div className="textColorWhite ml-5 mr-5 ">
-          Born in Germany. Military brat. Raised in Washington State. Varsity letter in 3 sports Volleyball, Basketball, and
-          Track. Played vb at Webber International University. Started pursuing my acting career 2 years ago. I believe I have a
-          lot of characters within myself that I can bring to life on the big screen.
+          Anitaka was born in Germany. Both of her parents are military. Meaning Anitaka's childhood involved plenty of structure
+          and organization. She played collegiate volleyball on scholarship in Florida. Anitaka uses her competitive nature to
+          seek after challenging roles that require her to think outside of the box.
+          <p />
+          Most recently Anitaka has been in several commercials to include, NBC, Karbach, Aspen Dental, Twin Liquors, and Ford
+          just to name a few.
+          <p />
+          She currently studies Meisner and Scene Study at In The Moment Acting Studio with Laurel Vouvray in Austin, TX.
+          <p />
+          Anitaka enjoys playing sports, reading, and traveling during her spare time.
           <div />
-          <br />
+          <p />
         </div>
 
         <div>
-          <img className="w-50 shadow" src={Know5} alt="slide" />
+          <img className="w-50 shadow" src={Headshot6} alt="slide" />
           <br />
         </div>
       </div>
