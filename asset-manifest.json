@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Anitaka/static/css/main.eecffdc3.chunk.css",
-    "main.js": "/Anitaka/static/js/main.2345310d.chunk.js",
-    "main.js.map": "/Anitaka/static/js/main.2345310d.chunk.js.map",
+    "main.js": "/Anitaka/static/js/main.61311950.chunk.js",
+    "main.js.map": "/Anitaka/static/js/main.61311950.chunk.js.map",
     "runtime-main.js": "/Anitaka/static/js/runtime-main.dcb00c41.js",
     "runtime-main.js.map": "/Anitaka/static/js/runtime-main.dcb00c41.js.map",
     "static/css/2.150d169a.chunk.css": "/Anitaka/static/css/2.150d169a.chunk.css",
@@ -52,6 +52,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.08cec12f.chunk.js",
     "static/css/main.eecffdc3.chunk.css",
-    "static/js/main.2345310d.chunk.js"
+    "static/js/main.61311950.chunk.js"
   ]
 }
