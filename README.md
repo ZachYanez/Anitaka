@@ -1,1 +1,3 @@
-# anitakaFinal
+---
+permalink: /public/index.html
+---
