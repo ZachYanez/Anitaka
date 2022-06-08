@@ -25,23 +25,6 @@ export default function printworkPics() {
             <p></p>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item>
-          <img className="d-block w-100" src={print3} alt="Second slide" />
-
-          <Carousel.Caption>
-            <h3></h3>
-            <p></p>
-          </Carousel.Caption>
-        </Carousel.Item>
-
-        <Carousel.Item>
-          <img className="d-block w-100" src={print4} alt="Third slide" />
-
-          <Carousel.Caption>
-            <h3></h3>
-            <p></p>
-          </Carousel.Caption>
-        </Carousel.Item>
 
         {/* <Carousel.Item>
           <img className="d-block w-100" src={print4} alt="Third slide" />
