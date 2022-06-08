@@ -13,7 +13,7 @@
         r = t.n(n),
         l = (t(51), t(52), t(11)),
         j = t(31);
-      function d() {
+      function o() {
         var e = Object(l.f)();
         return (
           Object(s.useEffect)(function () {
@@ -33,24 +33,24 @@
           })
         );
       }
-      var o = t(8),
+      var d = t(8),
         b = t(3),
         h = t(6),
-        m = t.p + "static/media/headshot5.324985cf.jpg";
+        m = t.p + "static/media/headshot6.a57493aa.jpg";
       function x() {
         return Object(c.jsxs)("div", {
           className: "background",
           children: [
-            Object(c.jsxs)(o.a, {
+            Object(c.jsxs)(d.a, {
               className: "header",
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "Anitaka" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "Anitaka" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsxs)(b.a, {
@@ -123,9 +123,15 @@
                 Object(c.jsxs)("div", {
                   className: "textColorWhite ml-5 mr-5 ",
                   children: [
-                    "Born in Germany. Military brat. Raised in Washington State. Varsity letter in 3 sports Volleyball, Basketball, and Track. Played vb at Webber International University. Started pursuing my acting career 2 years ago. I believe I have a lot of characters within myself that I can bring to life on the big screen.",
+                    "Anitaka was born in Germany. Both of her parents are military. Meaning Anitaka's childhood involved plenty of structure and organization. She played collegiate volleyball on scholarship in Florida. Anitaka uses her competitive nature to seek after challenging roles that require her to think outside of the box.",
+                    Object(c.jsx)("p", {}),
+                    "Most recently Anitaka has been in several commercials to include, NBC, Karbach, Aspen Dental, Twin Liquors, and Ford just to name a few.",
+                    Object(c.jsx)("p", {}),
+                    "She currently studies Meisner and Scene Study at In The Moment Acting Studio with Laurel Vouvray in Austin, TX.",
+                    Object(c.jsx)("p", {}),
+                    "Anitaka enjoys playing sports, reading, and traveling during her spare time.",
                     Object(c.jsx)("div", {}),
-                    Object(c.jsx)("br", {}),
+                    Object(c.jsx)("p", {}),
                   ],
                 }),
                 Object(c.jsxs)("div", {
@@ -135,15 +141,15 @@
             }),
             Object(c.jsx)("br", {}),
             Object(c.jsx)("div", { className: "extra-content" }),
-            Object(c.jsxs)(o.a, {
+            Object(c.jsxs)(d.a, {
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "A" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "A" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsx)(b.a, {
@@ -258,16 +264,16 @@
         return Object(c.jsxs)("div", {
           className: "background",
           children: [
-            Object(c.jsxs)(o.a, {
+            Object(c.jsxs)(d.a, {
               className: "header",
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "Anitaka Knight" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "Anitaka Knight" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsxs)(b.a, {
@@ -348,15 +354,15 @@
             Object(c.jsx)("br", {}),
             Object(c.jsx)("div", { className: "w-50 image-container", children: Object(c.jsx)(A, {}) }),
             Object(c.jsx)("div", { className: "content-area" }),
-            Object(c.jsxs)(o.a, {
+            Object(c.jsxs)(d.a, {
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "A" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "A" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsx)(b.a, {
@@ -376,7 +382,8 @@
       var C = t.p + "static/media/headshot1.340d62f1.jpg",
         B = t.p + "static/media/headshot2.0f11126c.jpg",
         _ = t.p + "static/media/headshot3.35c6b892.jpg",
-        K = t.p + "static/media/headshot4.d66fe2eb.jpg";
+        K = t.p + "static/media/headshot4.d66fe2eb.jpg",
+        S = t.p + "static/media/headshot5.324985cf.jpg";
       function H() {
         return Object(c.jsxs)("div", {
           className: "",
@@ -411,7 +418,7 @@
                 }),
                 Object(c.jsxs)(O.a.Item, {
                   children: [
-                    Object(c.jsx)("img", { className: "d-block w-100", src: m, alt: "Third slide" }),
+                    Object(c.jsx)("img", { className: "d-block w-100", src: S, alt: "Third slide" }),
                     Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
                   ],
                 }),
@@ -420,20 +427,20 @@
           ],
         });
       }
-      function S() {
+      function V() {
         return Object(c.jsxs)("div", {
           className: "background",
           children: [
-            Object(c.jsxs)(o.a, {
+            Object(c.jsxs)(d.a, {
               className: "header",
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "Anitaka Knight" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "Anitaka Knight" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsxs)(b.a, {
@@ -501,15 +508,15 @@
               ],
             }),
             Object(c.jsx)("div", { children: Object(c.jsx)(H, {}) }),
-            Object(c.jsxs)(o.a, {
+            Object(c.jsxs)(d.a, {
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "A" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "A" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsx)(b.a, {
@@ -526,16 +533,16 @@
           ],
         });
       }
-      var V = t.p + "static/media/Kayden1.a11d687e.jpg",
-        P = t.p + "static/media/Kayden2.c728d54a.jpg",
-        F = t.p + "static/media/Kayden3.5a704488.jpg",
-        W = t.p + "static/media/Kayden4.aa28fd1d.jpg",
+      var P = t.p + "static/media/Kayden1.a11d687e.jpg",
+        F = t.p + "static/media/Kayden2.c728d54a.jpg",
+        W = t.p + "static/media/Kayden3.5a704488.jpg",
+        M = t.p + "static/media/Kayden4.aa28fd1d.jpg",
         Y = t.p + "static/media/Kayden5.8f528dd3.jpg",
         E = t.p + "static/media/Kayden6.0846cd1d.jpg",
         R = t.p + "static/media/Kayden7.bb97a6c9.jpg",
-        M = t.p + "static/media/Kayden8.e780da15.jpg",
-        G = t.p + "static/media/Kayden9.62c0ee26.jpg";
-      function Q() {
+        G = t.p + "static/media/Kayden8.e780da15.jpg",
+        Q = t.p + "static/media/Kayden9.62c0ee26.jpg";
+      function J() {
         return Object(c.jsx)("div", {
           className: "shadow",
           children: Object(c.jsxs)(O.a, {
@@ -549,13 +556,13 @@
               }),
               Object(c.jsxs)(O.a.Item, {
                 children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: G, alt: "Second slide" }),
+                  Object(c.jsx)("img", { className: "d-block w-100", src: Q, alt: "Second slide" }),
                   Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
                 ],
               }),
               Object(c.jsxs)(O.a.Item, {
                 children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: M, alt: "Third slide" }),
+                  Object(c.jsx)("img", { className: "d-block w-100", src: G, alt: "Third slide" }),
                   Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
                 ],
               }),
@@ -577,7 +584,7 @@
               }),
               Object(c.jsxs)(O.a.Item, {
                 children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: W, alt: "Second slide" }),
+                  Object(c.jsx)("img", { className: "d-block w-100", src: M, alt: "Second slide" }),
                   Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
                 ],
               }),
@@ -589,29 +596,7 @@
               }),
               Object(c.jsxs)(O.a.Item, {
                 children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: F, alt: "Third slide" }),
-                  Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
-                ],
-              }),
-            ],
-          }),
-        });
-      }
-      function J() {
-        return Object(c.jsx)("div", {
-          className: "shadow",
-          children: Object(c.jsxs)(O.a, {
-            className: "printworkPics shadow",
-            children: [
-              Object(c.jsxs)(O.a.Item, {
-                children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: P, alt: "First slide" }),
-                  Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
-                ],
-              }),
-              Object(c.jsxs)(O.a.Item, {
-                children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: V, alt: "Second slide" }),
+                  Object(c.jsx)("img", { className: "d-block w-100", src: W, alt: "Third slide" }),
                   Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
                 ],
               }),
@@ -620,19 +605,41 @@
         });
       }
       function q() {
+        return Object(c.jsx)("div", {
+          className: "shadow",
+          children: Object(c.jsxs)(O.a, {
+            className: "printworkPics shadow",
+            children: [
+              Object(c.jsxs)(O.a.Item, {
+                children: [
+                  Object(c.jsx)("img", { className: "d-block w-100", src: F, alt: "First slide" }),
+                  Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
+                ],
+              }),
+              Object(c.jsxs)(O.a.Item, {
+                children: [
+                  Object(c.jsx)("img", { className: "d-block w-100", src: P, alt: "Second slide" }),
+                  Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
+                ],
+              }),
+            ],
+          }),
+        });
+      }
+      function Z() {
         return Object(c.jsxs)("div", {
           className: "background",
           children: [
-            Object(c.jsxs)(o.a, {
+            Object(c.jsxs)(d.a, {
               className: "header",
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "Kayden" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "Kayden" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsxs)(b.a, {
@@ -702,7 +709,7 @@
             Object(c.jsx)("br", {}),
             Object(c.jsx)("br", {}),
             Object(c.jsx)("br", {}),
-            Object(c.jsx)("div", { className: "w-50 image-container", children: Object(c.jsx)(Q, {}) }),
+            Object(c.jsx)("div", { className: "w-50 image-container", children: Object(c.jsx)(J, {}) }),
             Object(c.jsx)("br", {}),
             Object(c.jsx)("br", {}),
             Object(c.jsx)("br", {}),
@@ -711,16 +718,16 @@
             Object(c.jsx)("br", {}),
             Object(c.jsx)("br", {}),
             Object(c.jsx)("br", {}),
-            Object(c.jsx)("div", { className: "w-50 image-container", children: Object(c.jsx)(J, {}) }),
-            Object(c.jsxs)(o.a, {
+            Object(c.jsx)("div", { className: "w-50 image-container", children: Object(c.jsx)(q, {}) }),
+            Object(c.jsxs)(d.a, {
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "K" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "K" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsx)(b.a, {
@@ -737,10 +744,27 @@
           ],
         });
       }
-      var Z = t.p + "static/media/print2.8f57d773.jpg",
-        z = t.p + "static/media/print3.fab55897.jpg",
-        D = t.p + "static/media/print4.c33f9dd2.jpg";
-      function X() {
+      var z = t.p + "static/media/print2.8f57d773.jpg";
+      t.p, t.p;
+      function D() {
+        return Object(c.jsx)("div", {
+          className: "shadow",
+          children: Object(c.jsx)(O.a, {
+            className: "printworkPics shadow",
+            children: Object(c.jsxs)(O.a.Item, {
+              children: [
+                Object(c.jsx)("img", { className: "d-block w-100", src: z, alt: "First slide" }),
+                Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
+              ],
+            }),
+          }),
+        });
+      }
+      var X = t.p + "static/media/print1.2ce6d117.jpg",
+        $ = t.p + "static/media/print5.605c162e.jpg",
+        ee = t.p + "static/media/print6.473ef5a3.jpg",
+        ae = t.p + "static/media/print7.8bf2bc5c.jpg";
+      function te() {
         return Object(c.jsx)("div", {
           className: "shadow",
           children: Object(c.jsxs)(O.a, {
@@ -748,19 +772,19 @@
             children: [
               Object(c.jsxs)(O.a.Item, {
                 children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: Z, alt: "First slide" }),
+                  Object(c.jsx)("img", { className: "d-block w-100", src: $, alt: "First slide" }),
                   Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
                 ],
               }),
               Object(c.jsxs)(O.a.Item, {
                 children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: z, alt: "Second slide" }),
+                  Object(c.jsx)("img", { className: "d-block w-100", src: ee, alt: "Second slide" }),
                   Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
                 ],
               }),
               Object(c.jsxs)(O.a.Item, {
                 children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: D, alt: "Third slide" }),
+                  Object(c.jsx)("img", { className: "d-block w-100", src: ae, alt: "Third slide" }),
                   Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
                 ],
               }),
@@ -768,52 +792,20 @@
           }),
         });
       }
-      var $ = t.p + "static/media/print1.2ce6d117.jpg",
-        ee = t.p + "static/media/print5.605c162e.jpg",
-        ae = t.p + "static/media/print6.473ef5a3.jpg",
-        te = t.p + "static/media/print7.8bf2bc5c.jpg";
       function ce() {
-        return Object(c.jsx)("div", {
-          className: "shadow",
-          children: Object(c.jsxs)(O.a, {
-            className: "printworkPics shadow",
-            children: [
-              Object(c.jsxs)(O.a.Item, {
-                children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: ee, alt: "First slide" }),
-                  Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
-                ],
-              }),
-              Object(c.jsxs)(O.a.Item, {
-                children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: ae, alt: "Second slide" }),
-                  Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
-                ],
-              }),
-              Object(c.jsxs)(O.a.Item, {
-                children: [
-                  Object(c.jsx)("img", { className: "d-block w-100", src: te, alt: "Third slide" }),
-                  Object(c.jsxs)(O.a.Caption, { children: [Object(c.jsx)("h3", {}), Object(c.jsx)("p", {})] }),
-                ],
-              }),
-            ],
-          }),
-        });
-      }
-      function se() {
         return Object(c.jsxs)("div", {
           className: "background",
           children: [
-            Object(c.jsxs)(o.a, {
+            Object(c.jsxs)(d.a, {
               className: "header",
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "Anitaka Knight" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "Anitaka Knight" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsxs)(b.a, {
@@ -882,23 +874,23 @@
             Object(c.jsx)("div", {}),
             Object(c.jsx)("br", {}),
             Object(c.jsx)("br", {}),
-            Object(c.jsx)("div", { className: "w-50 image-container shadow", children: Object(c.jsx)(ce, {}) }),
+            Object(c.jsx)("div", { className: "w-50 image-container shadow", children: Object(c.jsx)(te, {}) }),
             Object(c.jsx)("br", {}),
             Object(c.jsx)("br", {}),
-            Object(c.jsx)("div", { className: "w-50 image-container shadow", children: Object(c.jsx)(X, {}) }),
+            Object(c.jsx)("div", { className: "w-50 image-container shadow", children: Object(c.jsx)(D, {}) }),
             Object(c.jsx)("br", {}),
             Object(c.jsx)("br", {}),
             Object(c.jsx)("br", {}),
-            Object(c.jsx)("div", { children: Object(c.jsx)("img", { className: "w-50 shadow ", src: $ }) }),
-            Object(c.jsxs)(o.a, {
+            Object(c.jsx)("div", { children: Object(c.jsx)("img", { className: "w-50 shadow ", src: X }) }),
+            Object(c.jsxs)(d.a, {
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "A" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "A" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsx)(b.a, {
@@ -915,20 +907,20 @@
           ],
         });
       }
-      function ie() {
+      function se() {
         return Object(c.jsxs)("div", {
           className: "background",
           children: [
-            Object(c.jsxs)(o.a, {
+            Object(c.jsxs)(d.a, {
               className: "header",
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "Anitaka" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "Anitaka" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsxs)(b.a, {
@@ -1146,15 +1138,15 @@
                 }),
               ],
             }),
-            Object(c.jsxs)(o.a, {
+            Object(c.jsxs)(d.a, {
               collapseOnSelect: !0,
               expand: "lg",
               bg: "transparent",
               variant: "light",
               children: [
-                Object(c.jsx)(o.a.Brand, { href: "#/", children: "A" }),
-                Object(c.jsx)(o.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
-                Object(c.jsxs)(o.a.Collapse, {
+                Object(c.jsx)(d.a.Brand, { href: "#/", children: "A" }),
+                Object(c.jsx)(d.a.Toggle, { "aria-controls": "responsive-navbar-nav" }),
+                Object(c.jsxs)(d.a.Collapse, {
                   id: "responsive-navbar-nav",
                   children: [
                     Object(c.jsx)(b.a, {
@@ -1171,30 +1163,31 @@
           ],
         });
       }
-      var ne = function () {
+      var ie = function () {
           return Object(c.jsx)("div", {
             className: "App",
             children: Object(c.jsx)(j.a, {
+              basename: "/Anitaka",
               children: Object(c.jsxs)(l.c, {
                 children: [
-                  Object(c.jsx)(l.a, { exact: !0, path: "/", component: d, children: Object(c.jsx)(d, {}) }),
+                  Object(c.jsx)(l.a, { exact: !0, path: "/", component: o, children: Object(c.jsx)(o, {}) }),
                   Object(c.jsx)(l.a, { exact: !0, path: "/bio", component: x, children: Object(c.jsx)(x, {}) }),
                   Object(c.jsx)(l.a, { exact: !0, path: "/lifestyle", component: T, children: Object(c.jsx)(T, {}) }),
-                  Object(c.jsx)(l.a, { exact: !0, path: "/headshots", component: S, children: Object(c.jsx)(S, {}) }),
-                  Object(c.jsx)(l.a, { exact: !0, path: "/printwork", component: se, children: Object(c.jsx)(se, {}) }),
-                  Object(c.jsx)(l.a, { exact: !0, path: "/kayden", component: q, children: Object(c.jsx)(q, {}) }),
-                  Object(c.jsx)(l.a, { exact: !0, path: "/videos", component: ie, children: Object(c.jsx)(ie, {}) }),
+                  Object(c.jsx)(l.a, { exact: !0, path: "/headshots", component: V, children: Object(c.jsx)(V, {}) }),
+                  Object(c.jsx)(l.a, { exact: !0, path: "/printwork", component: ce, children: Object(c.jsx)(ce, {}) }),
+                  Object(c.jsx)(l.a, { exact: !0, path: "/kayden", component: Z, children: Object(c.jsx)(Z, {}) }),
+                  Object(c.jsx)(l.a, { exact: !0, path: "/videos", component: se, children: Object(c.jsx)(se, {}) }),
                 ],
               }),
             }),
           });
         },
-        re = Boolean(
+        ne = Boolean(
           "localhost" === window.location.hostname ||
             "[::1]" === window.location.hostname ||
             window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/)
         );
-      function le(e, a) {
+      function re(e, a) {
         navigator.serviceWorker
           .register(e)
           .then(function (e) {
@@ -1216,7 +1209,7 @@
             console.error("Error during service worker registration:", e);
           });
       }
-      var je = function (e) {
+      var le = function (e) {
         e &&
           e instanceof Function &&
           t
@@ -1232,13 +1225,13 @@
             });
       };
       t(61);
-      r.a.render(Object(c.jsx)(i.a.StrictMode, { children: Object(c.jsx)(ne, {}) }), document.getElementById("root")),
+      r.a.render(Object(c.jsx)(i.a.StrictMode, { children: Object(c.jsx)(ie, {}) }), document.getElementById("root")),
         (function (e) {
           if ("serviceWorker" in navigator) {
             if (new URL("/Anitaka", window.location.href).origin !== window.location.origin) return;
             window.addEventListener("load", function () {
               var a = "".concat("/Anitaka", "/service-worker.js");
-              re
+              ne
                 ? (!(function (e, a) {
                     fetch(e, { headers: { "Service-Worker": "script" } })
                       .then(function (t) {
@@ -1249,7 +1242,7 @@
                                 window.location.reload();
                               });
                             })
-                          : le(e, a);
+                          : re(e, a);
                       })
                       .catch(function () {
                         console.log("No internet connection found. App is running in offline mode.");
@@ -1260,13 +1253,13 @@
                       "This web app is being served cache-first by a service worker. To learn more, visit https://cra.link/PWA"
                     );
                   }))
-                : le(a, e);
+                : re(a, e);
             });
           }
         })(),
-        je();
+        le();
     },
   },
   [[62, 1, 2]],
 ]);
-//# sourceMappingURL=main.2345310d.chunk.js.map
+//# sourceMappingURL=main.a7ec3fa1.chunk.js.map
