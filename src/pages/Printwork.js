@@ -27,7 +27,7 @@ export default function Acting() {
                 Instagram Main
               </NavDropdown.Item>
               <NavDropdown.Item target="_blank" href="https://www.instagram.com/anitakatheactress/">
-                Instagram actress account
+                Instagram Actress Account
               </NavDropdown.Item>
               <NavDropdown.Item target="_blank" href="https://www.linkedin.com/in/anitakaknight/">
                 LinkedIn

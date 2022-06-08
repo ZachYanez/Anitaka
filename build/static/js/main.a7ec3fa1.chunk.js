@@ -79,7 +79,7 @@
                             Object(c.jsx)(h.a.Item, {
                               target: "_blank",
                               href: "https://www.instagram.com/anitakatheactress/",
-                              children: "Instagram actress account",
+                              children: "Instagram Actress Account",
                             }),
                             Object(c.jsx)(h.a.Item, {
                               target: "_blank",
@@ -302,7 +302,7 @@
                             Object(c.jsx)(h.a.Item, {
                               target: "_blank",
                               href: "https://www.instagram.com/anitakatheactress/",
-                              children: "Instagram actress account",
+                              children: "Instagram Actress Account",
                             }),
                             Object(c.jsx)(h.a.Item, {
                               target: "_blank",
@@ -470,7 +470,7 @@
                             Object(c.jsx)(h.a.Item, {
                               target: "_blank",
                               href: "https://www.instagram.com/anitakatheactress/",
-                              children: "Instagram actress account",
+                              children: "Instagram Actress Account",
                             }),
                             Object(c.jsx)(h.a.Item, {
                               target: "_blank",
@@ -834,7 +834,7 @@
                             Object(c.jsx)(h.a.Item, {
                               target: "_blank",
                               href: "https://www.instagram.com/anitakatheactress/",
-                              children: "Instagram actress account",
+                              children: "Instagram Actress Account",
                             }),
                             Object(c.jsx)(h.a.Item, {
                               target: "_blank",
@@ -949,7 +949,7 @@
                             Object(c.jsx)(h.a.Item, {
                               target: "_blank",
                               href: "https://www.instagram.com/anitakatheactress/",
-                              children: "Instagram actress account",
+                              children: "Instagram Actress Account",
                             }),
                             Object(c.jsx)(h.a.Item, {
                               target: "_blank",
