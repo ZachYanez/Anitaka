@@ -223,7 +223,7 @@ export default function Videos() {
             <Nav.Link href="https://youtube.com/shorts/GEoVlmhW8qM">Mobile Ad 2</Nav.Link>
           </div>
           <div className="mt-3">
-            <Nav.Link href="https://youtube.com/shorts/oMLq8JhXOdc">Amazon PLacement</Nav.Link>
+            <Nav.Link href="https://youtube.com/shorts/oMLq8JhXOdc">Amazon Placement</Nav.Link>
           </div>
           <div className="mt-3">
             <Nav.Link href="https://youtube.com/shorts/9GygSYUBMjM">Eddie By Giddie</Nav.Link>
