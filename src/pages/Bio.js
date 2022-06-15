@@ -40,7 +40,7 @@ export default function Bio() {
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="#Headshots">Headshots</Nav.Link>
-            <Nav.Link href="#printwork">Print work</Nav.Link>
+            <Nav.Link href="#printwork">Print Work</Nav.Link>
             <Nav.Link href="#Kayden">Kayden</Nav.Link>
             <Nav.Link href="#Lifestyle">Lifestyle</Nav.Link>
             <Nav.Link href="#Videos">Videos</Nav.Link>

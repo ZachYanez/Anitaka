@@ -38,7 +38,7 @@ export default function Voiceover() {
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="#Headshots">Headshots</Nav.Link>
-            <Nav.Link href="#Printwork">Print work</Nav.Link>
+            <Nav.Link href="#Printwork">Print Work</Nav.Link>
             <Nav.Link className="staticLink" href="#Kayden">
               Kayden
             </Nav.Link>

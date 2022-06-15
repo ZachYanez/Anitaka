@@ -6,6 +6,7 @@ import Headshots from "../components/carousels/headshotPics";
 import PrintworkPics from "../components/carousels/printworkPics";
 import Wedding from "../assets/printwork/print1.jpg";
 import AtHomePics from "../components/carousels/atHomePics";
+import BWPics from "../components/carousels/bwPics";
 
 export default function Acting() {
   return (
@@ -38,7 +39,7 @@ export default function Acting() {
             </NavDropdown>
             <Nav.Link href="#Headshots">Headshots</Nav.Link>
             <Nav.Link className="staticLink" href="#Printwork">
-              Print work
+              Print Work
             </Nav.Link>
             <Nav.Link href="#Kayden">Kayden</Nav.Link>
             <Nav.Link href="#Lifestyle">Lifestyle</Nav.Link>
@@ -71,6 +72,10 @@ export default function Acting() {
         <PrintworkPics />
       </div>
       <br />
+      <br />
+      <div className="w-50 image-container shadow">
+        <BWPics />
+      </div>
       <br />
       <br />
       <div>

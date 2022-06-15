@@ -37,7 +37,7 @@ export default function Acting() {
             <Nav.Link className="staticLink" href="#Headshots">
               Headshots
             </Nav.Link>
-            <Nav.Link href="#Printwork">Print work</Nav.Link>
+            <Nav.Link href="#Printwork">Print Work</Nav.Link>
             <Nav.Link href="#Kayden">Kayden</Nav.Link>
             <Nav.Link href="#Lifestyle">Lifestyle</Nav.Link>
             <Nav.Link href="#Videos">Videos</Nav.Link>

@@ -33,7 +33,7 @@ export default function Videos() {
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="#Headshots">Headshots</Nav.Link>
-            <Nav.Link href="#printwork">Print work</Nav.Link>
+            <Nav.Link href="#printwork">Print Work</Nav.Link>
             <Nav.Link href="#Kayden">Kayden</Nav.Link>
             <Nav.Link href="#Lifestyle">Lifestyle</Nav.Link>
             <Nav.Link className="staticLink" href="#Videos">
@@ -57,6 +57,7 @@ export default function Videos() {
       </Navbar>
       <div className="content-area">
         <div className="mt-3">
+          {/* Canoo */}
           <iframe
             width="560"
             height="315"
@@ -69,6 +70,8 @@ export default function Videos() {
         </div>
 
         <div className="mt-3">
+          {/* Daysy */}
+
           <iframe
             width="560"
             height="315"
@@ -81,6 +84,8 @@ export default function Videos() {
         </div>
 
         <div className="mt-3">
+          {/* Still Comes Up */}
+
           <iframe
             width="560"
             height="315"
@@ -92,6 +97,8 @@ export default function Videos() {
           ></iframe>
         </div>
         <div className="mt-3 mb-3">
+          {/* Vivid */}
+
           <iframe
             width="560"
             height="315"
@@ -103,6 +110,8 @@ export default function Videos() {
           ></iframe>
         </div>
         <div className="mt-3">
+          {/* Bell Filmz */}
+
           <iframe
             width="560"
             height="315"
@@ -114,6 +123,8 @@ export default function Videos() {
           ></iframe>
         </div>
         <div className="mt-3">
+          {/* Reel */}
+
           <iframe
             width="560"
             height="315"
@@ -125,6 +136,8 @@ export default function Videos() {
           ></iframe>
         </div>
         <div className="mt-3">
+          {/* Voice Work */}
+
           <iframe
             width="560"
             height="315"
@@ -136,6 +149,8 @@ export default function Videos() {
           ></iframe>
 
           <div className="mt-3">
+            {/* Ranch Water */}
+
             <iframe
               width="560"
               height="315"
@@ -147,6 +162,8 @@ export default function Videos() {
             ></iframe>
           </div>
           <div className="mt-3">
+            {/* ask the lawyers */}
+
             <iframe
               width="560"
               height="315"
@@ -158,6 +175,8 @@ export default function Videos() {
             ></iframe>
           </div>
           <div className="mt-3">
+            {/* Visit Dallas */}
+
             <iframe
               width="560"
               height="315"
@@ -169,6 +188,8 @@ export default function Videos() {
             ></iframe>
           </div>
           <div className="mt-3">
+            {/* solo stove*/}
+
             <iframe
               width="560"
               height="315"
@@ -180,6 +201,8 @@ export default function Videos() {
             ></iframe>
           </div>
           <div className="mt-3">
+            {/* clockwise */}
+
             <iframe
               width="560"
               height="315"
@@ -190,7 +213,21 @@ export default function Videos() {
               allowfullscreen
             ></iframe>
           </div>
-          <div className="mt-3"></div>
+          <div className="mt-3">
+            <Nav.Link href="https://youtube.com/shorts/ZFCA3wMLs5I">Urbn Fit</Nav.Link>
+          </div>
+          <div className="mt-3">
+            <Nav.Link href="https://youtube.com/shorts/pMXNAYbiDfQ">Mobile Ad 1</Nav.Link>
+          </div>
+          <div className="mt-3">
+            <Nav.Link href="https://youtube.com/shorts/GEoVlmhW8qM">Mobile Ad 2</Nav.Link>
+          </div>
+          <div className="mt-3">
+            <Nav.Link href="https://youtube.com/shorts/oMLq8JhXOdc">Amazon PLacement</Nav.Link>
+          </div>
+          <div className="mt-3">
+            <Nav.Link href="https://youtube.com/shorts/9GygSYUBMjM">Eddie By Giddie</Nav.Link>
+          </div>
         </div>
       </div>
       <Navbar collapseOnSelect expand="lg" bg="transparent" variant="light">
