@@ -63,9 +63,9 @@ export default function Bio() {
       <div className="content-area background">
         <br />
         <div className="textColorWhite ml-5 mr-5 ">
-          Anitaka was born in Germany. Both of her parents are military. Meaning Anitaka's childhood involved plenty of structure
-          and organization. She played collegiate volleyball on scholarship in Florida. Anitaka uses her competitive nature to
-          seek after challenging roles that require her to think outside of the box.
+          Anitaka was born in Germany. Both of her parents are military. Anitaka's childhood involved plenty of structure and
+          organization. She played collegiate volleyball on scholarship in Florida. Anitaka uses her competitive nature to seek
+          after challenging roles that require her to think outside of the box.
           <p />
           Most recently Anitaka has been in several commercials to include, NBC, Karbach, Aspen Dental, Twin Liquors, and Ford
           just to name a few.
