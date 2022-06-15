@@ -2,10 +2,10 @@
   "name": "anitakaknight",
   "version": "0.1.0",
   "private": true,
-  "homepage": "aktheactress.com ",
+  "homepage": "https://aktheactress.com ",
   "repository": {
     "type": "git",
-    "url": "https://zachyanez.github.io/Anitaka/"
+    "url": "https://github.com/ZachYanez/Anitaka/"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
