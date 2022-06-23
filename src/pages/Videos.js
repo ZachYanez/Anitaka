@@ -28,7 +28,7 @@ export default function Videos() {
               <NavDropdown.Item target="_blank" href="https://www.linkedin.com/in/anitakaknight/">
                 LinkedIn
               </NavDropdown.Item>
-              <NavDropdown.Item target="_blank" href="facebook.com/anitaka.knight">
+              <NavDropdown.Item target="_blank" href="https://www.facebook.com/anitaka.knight">
                 Facebook
               </NavDropdown.Item>
             </NavDropdown>
@@ -56,6 +56,18 @@ export default function Videos() {
         </Navbar.Collapse>
       </Navbar>
       <div className="content-area">
+        <div className="mt-3">
+          {/* HEB */}
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/cobEBhETei4"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
         <div className="mt-3">
           {/* Canoo */}
           <iframe

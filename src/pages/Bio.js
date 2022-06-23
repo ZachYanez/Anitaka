@@ -35,7 +35,7 @@ export default function Bio() {
               <NavDropdown.Item target="_blank" href="https://www.linkedin.com/in/anitakaknight/">
                 LinkedIn
               </NavDropdown.Item>
-              <NavDropdown.Item target="_blank" href="facebook.com/anitaka.knight">
+              <NavDropdown.Item target="_blank" href="https://www.facebook.com/anitaka.knight">
                 Facebook
               </NavDropdown.Item>
             </NavDropdown>
